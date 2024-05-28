@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Eu estou estudando no Alura, e estou usando este espaço para compartilhar os meus projetos
 <!--
 **MorettoR/MorettoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
